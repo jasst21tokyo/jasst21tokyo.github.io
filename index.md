@@ -1,5 +1,9 @@
-
-
+# Q: 視聴の仕方がわかりません/ How can I see the session?
+# A: 画面中央上部にあるプレイヤーを使ってください / Please use the player at the top center of the screen.
+## Step 1 聴講したいトラックをします / Click your track
+## Step 2 音量を調節します / Adjust your volume
+## Step 3 必要に応じてプレイヤーを最大化します / Maximize the player as needed
+![Q01-01](images/Q03-01.png)
 # Q:各セッションの質問はどのようにすればよいでしょうか？/How can I ask questions for each session?
 # A:右側の"slido"タブをご利用ください/Please use the "slido" tab on the right.
 ## Step 1 右側の"slido"のタブをクリックしてください/ Click "slido" on the right
