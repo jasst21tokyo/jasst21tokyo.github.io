@@ -6,6 +6,7 @@
 ## Step 2 検索窓に "JT21" と入力して JaSST 21 Tokyoを検索してください
 ![Q01-01](images/Q01-01.png)
 ## Step 3 ご参加されている、トラックを選択してください
-![Q01-01](images/Q01-02.png)
+![Q01-02](images/Q01-02.png)
 ## Step 4 枠内に質問を入力ください
+![Q01-03](images/Q01-03.png)
 # Q:その他、事務局に問い合わせがしたいです。/I have some inquiries to the organizer.
