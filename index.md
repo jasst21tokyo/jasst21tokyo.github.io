@@ -3,7 +3,13 @@
 ## Step 1 聴講したいトラックをします / Click your track
 ## Step 2 音量を調節します / Adjust your volume
 ## Step 3 必要に応じてプレイヤーを最大化します / Maximize the player as needed
-![Q01-01](images/Q03-01.png)
+![Q03-01](images/Q03-01.png)
+# Q: セッションスケジュールがわかりません / How can I know about the sessions?
+# A: 中央の"Schedule"タブをご利用ください/Please use the "Schedule" tab on the center.
+## Step 1 "Schedule"タブをクリックしてください / Click "Schedule" タブ on the center
+## Step 2 対象の日付をご選択ください　/ Select the day
+## Step 3 スケジュールをご確認ください　/ Check your sessions schedule
+![Q04-01](images/Q04-01.png)
 # Q:各セッションの質問はどのようにすればよいでしょうか？/How can I ask questions for each session?
 # A:右側の"slido"タブをご利用ください/Please use the "slido" tab on the right.
 ## Step 1 右側の"slido"のタブをクリックしてください/ Click "slido" on the right
