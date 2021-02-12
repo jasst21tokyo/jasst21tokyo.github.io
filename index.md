@@ -25,6 +25,9 @@
 ![Q01-02](images/Q01-02.png)
 ### Step 4 枠内に質問を入力ください / Input your question
 ![Q01-03](images/Q01-03.png)
+## Q.音が聞こえません、映像が見れません/ I can't hear the sound or see the video.
+## A. プレイヤーの設定を確認ください、それでもだめなら、ージの更新やログアウト、PCの再起動を試してください/Please check the settings of your player, if it still doesn't work, please try to refresh the page, logout, or restart your PC.
+![Q05-01](images/Q05-01.png)
 ## Q:その他、事務局に問い合わせがしたいです。/I have some inquiries to the organizer.
 ## A:中央の"People"タブをご利用ください/Please use the "People" tab on the center.
 ### Step 1 "People"タブをクリックしてください / Click "People" タブ on the center
