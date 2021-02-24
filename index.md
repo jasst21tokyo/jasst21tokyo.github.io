@@ -12,8 +12,8 @@
 ### Step 3 必要に応じてプレイヤーを最大化します / Maximize the player as needed
 ![Q03-01](images/Q03-01.png)
 ## Q: セッションスケジュールがわかりません / How can I know about the sessions?
-## A: 中央の"Schedule"タブをご利用ください/Please use the "Schedule" tab on the center.
-### Step 1 "Schedule"タブをクリックしてください / Click "Schedule" タブ on the center
+## A: 中央の"スケジュール"タブをご利用ください/Please use the "Schedule" tab on the center.
+### Step 1 "スケジュール"タブをクリックしてください / Click "Schedule" タブ on the center
 ### Step 2 対象の日付をご選択ください　/ Select the day
 ### Step 3 スケジュールをご確認ください　/ Check your sessions schedule
 ![Q04-01](images/Q04-01.png)
@@ -30,8 +30,8 @@
 ## A. プレイヤーの設定を確認ください、それでもだめなら、ージの更新やログアウト、PCの再起動を試してください/Please check the settings of your player, if it still doesn't work, please try to refresh the page, logout, or restart your PC.
 ![Q05-01](images/Q05-01.png)
 ## Q:その他、事務局に問い合わせがしたいです。/I have some inquiries to the organizer.
-## A:中央の"People"タブをご利用ください/Please use the "People" tab on the center.
-### Step 1 "People"タブをクリックしてください / Click "People" タブ on the center
+## A:中央の"探す"タブをご利用ください/Please use the "People" tab on the center.
+### Step 1 "探す"タブをクリックしてください / Click "People" タブ on the center
 ### Step 2 "Inquiry" でご検索ください / Search with keyword "Inquiry"
 ### Step 3 "お問い合わせスタッフ Inquiry Stuff" をクリックしてください Click "お問い合わせスタッフ Inquiry Stuff"
 ![Q02-01](images/Q02-01.png)
