@@ -3,8 +3,8 @@
 - [Q: セッションスケジュールがわかりません / How can I know about the sessions?](#q-セッションスケジュールがわかりません--how-can-i-know-about-the-sessions)
 - [Q:各セッションの質問はどのようにすればよいでしょうか？/How can I ask questions for each session?](#q各セッションの質問はどのようにすればよいでしょうかhow-can-i-ask-questions-for-each-session)
 - [Q.音が聞こえません、映像が見れません/ I can't hear the sound or see the video.](#q音が聞こえません映像が見れません-i-cant-hear-the-sound-or-see-the-video)
-- [Q.ベストスピーカー賞に投票したいです/ I'd like to vote for best speaker.](#q音が聞こえません映像が見れません-i-cant-hear-the-sound-or-see-the-video)
-- [Q.参加者アンケートに回答したいです/I would like to answer the participant survey.](#q音が聞こえません映像が見れません-i-cant-hear-the-sound-or-see-the-video)
+- [Q.ベストスピーカー賞に投票したいです/ I'd like to vote for best speaker.](#qベストスピーカー賞に投票したいです-id-like-to-vote-for-best-speaker)
+- [Q.参加者アンケートに回答したいです/I would like to answer the participant survey.](#q参加者アンケートに回答したいですi-would-like-to-answer-the-participant-survey)
 - [Q:その他、事務局に問い合わせがしたいです。/I have some inquiries to the organizer.](#qその他事務局に問い合わせがしたいですi-have-some-inquiries-to-the-organizer)
 
 ## Q: 視聴の仕方がわかりません/ How can I see the session?
@@ -36,7 +36,7 @@
 ### EventHubで登録されたメールアドレスで、お一人様１枚のみ投票をお願いします。/ Please vote for one per person using the email address you registered on EventHub.
 ### なお締切を3/16 15:20までとさせていただきます。/The deadline would be March 16, 15:20 JST
 ## Q.参加者アンケートに回答したいです/I would like to answer the participant survey.
-## A: https://forms.gle/YonhnJzaNkB97m9W7　 で回答してください/ Plese go to  https://forms.gle/YonhnJzaNkB97m9W7
+## A: https://forms.gle/YonhnJzaNkB97m9W7 で回答してください/ Plese go to  https://forms.gle/YonhnJzaNkB97m9W7
 ## Q:その他、事務局に問い合わせがしたいです。/I have some inquiries to the organizer.
 ## A:中央の"探す"タブをご利用ください/Please use the "People" tab on the center.
 ### Step 1 "探す"タブをクリックしてください / Click "People" タブ on the center
