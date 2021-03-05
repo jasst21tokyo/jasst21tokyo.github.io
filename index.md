@@ -24,7 +24,7 @@
 ### Step 1 右側の"slido"のタブをクリックしてください/ Click "slido" on the right
 ### Step 2 検索窓に "JT21" と入力して JaSST 21 Tokyoを検索してください/ Search with keyword "JT21" 
 ![Q01-01](images/Q01-01.png)
-### Step 3 ご参加されている、トラックを選択してください/ Select your track.
+### Step 3 ご参加されている、トラックとセッションを選択してください/ Select your track and session.
 ![Q01-02](images/Q01-02.png)
 ### Step 4 枠内に質問を入力ください / Input your question
 ![Q01-03](images/Q01-03.png)
