@@ -5,6 +5,7 @@
 - [Q.音が聞こえません、映像が見れません/ I can't hear the sound or see the video.](#q音が聞こえません映像が見れません-i-cant-hear-the-sound-or-see-the-video)
 - [Q.ベストスピーカー賞に投票したいです/ I'd like to vote for best speaker.](#qベストスピーカー賞に投票したいです-id-like-to-vote-for-best-speaker)
 - [Q.参加者アンケートに回答したいです/I would like to answer the participant survey.](#q参加者アンケートに回答したいですi-would-like-to-answer-the-participant-survey)
+- [Q.Twitterのハッシュタグは何になりますか?/What is the Twitter hashtag for the symposium?](#q参加者アンケートに回答したいですi-would-like-to-answer-the-participant-survey)
 - [Q:その他、事務局に問い合わせがしたいです。/I have some inquiries to the organizer.](#qその他事務局に問い合わせがしたいですi-have-some-inquiries-to-the-organizer)
 
 ## Q: 視聴の仕方がわかりません/ How can I see the session?
@@ -37,6 +38,8 @@
 ### なお締切を3/16 15:20までとさせていただきます。/The deadline would be March 16, 15:20 JST
 ## Q.参加者アンケートに回答したいです/I would like to answer the participant survey.
 ## A:[https://forms.gle/YonhnJzaNkB97m9W7](https://forms.gle/YonhnJzaNkB97m9W7) で回答してください/ Plese go to [https://forms.gle/YonhnJzaNkB97m9W7](https://forms.gle/YonhnJzaNkB97m9W7)
+## Q.Twitterのハッシュタグは何になりますか?/What is the Twitter hashtag for the symposium?
+## A:[#jassttokyo](https://twitter.com/search?q=%23jassttokyo&src=typed_query&f=live) です/ Plese tweet with [#jassttokyo](https://twitter.com/search?q=%23jassttokyo&src=typed_query&f=live)
 ## Q:その他、事務局に問い合わせがしたいです。/I have some inquiries to the organizer.
 ## A:中央の"探す"タブをご利用ください/Please use the "People" tab on the center.
 ### Step 1 "探す"タブをクリックしてください / Click "People" タブ on the center
