@@ -5,7 +5,7 @@
 - [Q.音が聞こえません、映像が見れません/ I can't hear the sound or see the video.](#q音が聞こえません映像が見れません-i-cant-hear-the-sound-or-see-the-video)
 - [Q.ベストスピーカー賞に投票したいです/ I'd like to vote for best speaker.](#qベストスピーカー賞に投票したいです-id-like-to-vote-for-best-speaker)
 - [Q.参加者アンケートに回答したいです/I would like to answer the participant survey.](#q参加者アンケートに回答したいですi-would-like-to-answer-the-participant-survey)
-- [Q.Twitterのハッシュタグは何になりますか?/What is the Twitter hashtag for the symposium?](#q参加者アンケートに回答したいですi-would-like-to-answer-the-participant-survey)
+- [Q.Twitterのハッシュタグは何になりますか?/What is the Twitter hashtag for the symposium?](qtwitterのハッシュタグは何になりますかwhat-is-the-twitter-hashtag-for-the-symposium)
 - [Q:その他、事務局に問い合わせがしたいです。/I have some inquiries to the organizer.](#qその他事務局に問い合わせがしたいですi-have-some-inquiries-to-the-organizer)
 
 ## Q: 視聴の仕方がわかりません/ How can I see the session?
