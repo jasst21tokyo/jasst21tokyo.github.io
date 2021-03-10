@@ -6,6 +6,7 @@
 - [Q.ベストスピーカー賞に投票したいです/ I'd like to vote for best speaker.](#qベストスピーカー賞に投票したいです-id-like-to-vote-for-best-speaker)
 - [Q.参加者アンケートに回答したいです/I would like to answer the participant survey.](#q参加者アンケートに回答したいですi-would-like-to-answer-the-participant-survey)
 - [Q.Twitterのハッシュタグは何になりますか?/What is the Twitter hashtag for the symposium?](#qtwitterのハッシュタグは何になりますかwhat-is-the-twitter-hashtag-for-the-symposium)
+- [Q.その他、EventHub(プロフィール、名刺交換など)の使い方がわかりません?/I want to know more about EventHub (profile settings and business card exchange).](#qその他eventhubプロフィール名刺交換などの使い方がわかりませんi-want-to-know-more-about-eventhub-profile-settings-and-business-card-exchange)
 - [Q:その他、事務局に問い合わせがしたいです。/I have some inquiries to the organizer.](#qその他事務局に問い合わせがしたいですi-have-some-inquiries-to-the-organizer)
 
 ## Q: 視聴の仕方がわかりません/ How can I see the session?
