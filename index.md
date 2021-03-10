@@ -40,7 +40,9 @@
 ## A:[https://forms.gle/YonhnJzaNkB97m9W7](https://forms.gle/YonhnJzaNkB97m9W7) で回答してください/ Plese go to [https://forms.gle/YonhnJzaNkB97m9W7](https://forms.gle/YonhnJzaNkB97m9W7)
 ## Q.Twitterのハッシュタグは何になりますか?/What is the Twitter hashtag for the symposium?
 ## A:[#jassttokyo](https://twitter.com/search?q=%23jassttokyo&src=typed_query&f=live) です/ Plese tweet with [#jassttokyo](https://twitter.com/search?q=%23jassttokyo&src=typed_query&f=live)
-## Q:その他、事務局に問い合わせがしたいです。/I have some inquiries to the organizer.
+## Q.その他、EventHub(プロフィール、名刺交換など)の使い方がわかりません?/I want to know more about EventHub (profile settings and business card exchange).
+## A.[https://eventhubcustomersupport.zendesk.com/hc/](https://eventhubcustomersupport.zendesk.com/hc/)をご参照ください/Please go to [https://eventhubcustomersupport.zendesk.com/hc/](https://eventhubcustomersupport.zendesk.com/hc/)
+## Q:直接、事務局に問い合わせがしたいです。/I have some inquiries to the organizer.
 ## A:中央の"探す"タブをご利用ください/Please use the "People" tab on the center.
 ### Step 1 "探す"タブをクリックしてください / Click "People" タブ on the center
 ### Step 2 "Inquiry" でご検索ください / Search with keyword "Inquiry"
