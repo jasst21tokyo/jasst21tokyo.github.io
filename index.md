@@ -43,6 +43,8 @@
 ## A:[#jassttokyo](https://twitter.com/search?q=%23jassttokyo&src=typed_query&f=live) です/ Plese tweet with [#jassttokyo](https://twitter.com/search?q=%23jassttokyo&src=typed_query&f=live)
 ## Q.その他、EventHub(プロフィール、名刺交換など)の使い方がわかりません?/I want to know more about EventHub (profile settings and business card exchange).
 ## A.[https://eventhubcustomersupport.zendesk.com/hc/](https://eventhubcustomersupport.zendesk.com/hc/)をご参照ください/Please go to [https://eventhubcustomersupport.zendesk.com/hc/](https://eventhubcustomersupport.zendesk.com/hc/)
+## Q.EventHub上のプロフィールを変更したい/ I want to modify my profile at EventHub
+## A.[EventHub Help](https://eventhubcustomersupport.zendesk.com/hc/ja/articles/360020796231-%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E6%83%85%E5%A0%B1%E3%82%92%E5%85%85%E5%AE%9F%E3%81%95%E3%81%9B%E3%81%BE%E3%81%97%E3%82%87%E3%81%86-%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB-%E3%83%AD%E3%82%B4%E7%94%BB%E5%83%8F%E3%81%AE%E8%A8%AD%E5%AE%9A%E3%82%82%E3%81%9C%E3%81%B2-) をご確認ください / Please refer to [EventHub Help](https://eventhubcustomersupport.zendesk.com/hc/ja/articles/360020796231-%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E6%83%85%E5%A0%B1%E3%82%92%E5%85%85%E5%AE%9F%E3%81%95%E3%81%9B%E3%81%BE%E3%81%97%E3%82%87%E3%81%86-%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB-%E3%83%AD%E3%82%B4%E7%94%BB%E5%83%8F%E3%81%AE%E8%A8%AD%E5%AE%9A%E3%82%82%E3%81%9C%E3%81%B2-)
 ## Q:直接、事務局に問い合わせがしたいです。/I have some inquiries to the organizer.
 ## A:中央の"探す"タブをご利用ください/Please use the "People" tab on the center.
 ### Step 1 "探す"タブをクリックしてください / Click "People" タブ on the center
